@@ -1,7 +1,7 @@
 # Interview Handbook
 
 ### The Journey
-- [ ] Handbook 1
+- [ ] Handbook 1 - [My LINK](https://github.com/caestrada/coding-interview-university)
 - [ ] Handbook 2
 
 ### From FrontEnd Masters Handbook
