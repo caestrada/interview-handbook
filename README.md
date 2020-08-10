@@ -4,7 +4,7 @@
 
 **Books**
 - [ ] Cracking the Coding Interview
-- [ ]The Google Resume
+- [ ] The Google Resume
 
 **Other**
 - [ ] Handbook 1 - [My Fork](https://github.com/caestrada/coding-interview-university)
