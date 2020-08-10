@@ -1,6 +1,6 @@
 # Interview Handbook
 
-### Steps
+### The Journey
 - [ ] Handbook 1
 - [ ] Handbook 2
 
