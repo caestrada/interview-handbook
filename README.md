@@ -1,6 +1,12 @@
 # Interview Handbook
 
 ### The Journey
+
+**Books**
+- [ ] Cracking the Coding Interview
+- [ ]The Google Resume
+
+**Other**
 - [ ] Handbook 1 - [My Fork](https://github.com/caestrada/coding-interview-university)
 - [ ] Handbook 2
 
