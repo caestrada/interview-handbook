@@ -19,7 +19,7 @@ Bellow you will find a snipped of their interview section of the book.
    * [Front-End Job Interview Questions](http://h5bp.github.io/Front-end-Developer-Interview-Questions/)
    * [Front End Web Development Quiz](http://davidshariff.com/quiz/)
    * [Interview Questions for Front-End-Developer](http://thatjsdude.com/interview/index.html)
-   * [The Best Frontend JavaScript Interview Questions](https://performancejs.com/post/hde6d32/The-Best-Frontend-JavaScript-Interview-Questions-((Written-by-a-Frontend-Engineer))
+   * <a href="https://performancejs.com/post/hde6d32/The-Best-Frontend-JavaScript-Interview-Questions-(Written-by-a-Frontend-Engineer">The Best Frontend JavaScript Interview Questions</a>
 
    **Questions you ask:**
    * [An open source list of developer questions to ask prospective employers](https://github.com/ChiperSoft/InterviewThis)
