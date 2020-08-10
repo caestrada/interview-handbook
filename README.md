@@ -1,6 +1,7 @@
 # Interview Handbook
 
 ### From FrontEnd Masters Handbook
+Here is the link to the [2019 Front-End Developer Handbook](https://frontendmasters.com/books/front-end-handbook/2019/#3.8) from the amazing people at [FrontEnd Masters](https://frontendmasters.com/).
 **Preparing**
 * [Preparing for a Front-End Web Development Interview in 2017](http://davidshariff.com/blog/preparing-for-a-front-end-web-development-interview-in-2017/)
 * [Cracking the front-end interview](https://medium.freecodecamp.com/cracking-the-front-end-interview-9a34cd46237)
