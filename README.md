@@ -24,7 +24,6 @@ Bellow you will find a snipped of their interview section of the book.
    **Questions you ask:**
    * [An open source list of developer questions to ask prospective employers](https://github.com/ChiperSoft/InterviewThis)
 
-
 ### Following on the success of others
 
 * [Handbook 1](https://github.com/jwasham/coding-interview-university)
