@@ -8,6 +8,9 @@
 - [ ] Cracking the Coding Interview
 - [ ] The Google Resume
 
+- [ ] Cracking the Tech Career
+- [ ] The Algorithm Design Manual
+
 **Other**
 - [ ] Handbook 1 - [My Fork](https://github.com/caestrada/coding-interview-university)
 - [ ] Handbook 2
