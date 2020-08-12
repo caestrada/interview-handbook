@@ -1,6 +1,8 @@
 # Interview Handbook
 
-### The Journey
+## General Prep
+
+
 
 **Books**
 - [ ] Cracking the Coding Interview
