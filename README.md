@@ -8,6 +8,7 @@
 * C++
 
 ## Books
+Concentrate on books with coding problems and do them in both languages of choice (in my case C++ and JavaScript)
 - [ ] Cracking the Coding Interview (Problems in Progress)
 - [ ] The Google Resume
 
