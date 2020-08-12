@@ -12,6 +12,10 @@
 - [ ] Handbook 1 - [My Fork](https://github.com/caestrada/coding-interview-university)
 - [ ] Handbook 2
 
+## Links
+- [ ] [Interview at Google](https://careers.google.com/how-we-hire/)
+- [ ] [Interview at Facebook](https://www.facebook.com/careers/life/preparing-for-your-software-engineering-interview-at-facebook/)
+
 ## Other
 ### From FrontEnd Masters Handbook
 Here is the link to the [2019 Front-End Developer Handbook](https://frontendmasters.com/books/front-end-handbook/2019/#3.8) from the amazing people at [FrontEnd Masters](https://frontendmasters.com/).
