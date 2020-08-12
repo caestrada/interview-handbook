@@ -1,7 +1,7 @@
 # Interview Handbook
 
 ## General Prep
-
+- [ ] [How to Get a Job at Google - Amazon - Facebook - or Microsoft in 2019](https://youtu.be/6nODOtyHSBc)
 
 
 **Books**
