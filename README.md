@@ -3,6 +3,11 @@
 ## General Prep
 - [x] [How to Get a Job at Google - Amazon - Facebook - or Microsoft in 2019](https://youtu.be/6nODOtyHSBc)
 
+## Language of Choice
+* JavaScript
+* C++
+* Rust (🤔 Why? Simply because of Deno)
+
 
 **Books**
 - [ ] Cracking the Coding Interview (Problems in Progress)
