@@ -8,8 +8,7 @@
 * C++
 * Rust (🤔 Why? Aside from the fact I think is a great Systems language, Mainly because of Deno)
 
-
-**Books**
+## Books
 - [ ] Cracking the Coding Interview (Problems in Progress)
 - [ ] The Google Resume
 
