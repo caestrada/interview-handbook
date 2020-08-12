@@ -6,7 +6,7 @@
 ## Language of Choice
 * JavaScript
 * C++
-* Rust (🤔 Why? Simply because of Deno)
+* Rust (🤔 Why? Aside from the fact I think is a great Systems language, Mainly because of Deno)
 
 
 **Books**
