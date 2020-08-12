@@ -12,6 +12,7 @@
 - [ ] Handbook 1 - [My Fork](https://github.com/caestrada/coding-interview-university)
 - [ ] Handbook 2
 
+## Other
 ### From FrontEnd Masters Handbook
 Here is the link to the [2019 Front-End Developer Handbook](https://frontendmasters.com/books/front-end-handbook/2019/#3.8) from the amazing people at [FrontEnd Masters](https://frontendmasters.com/).
 Bellow you will find a snipped of their interview section of the book.
