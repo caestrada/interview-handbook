@@ -1,14 +1,14 @@
 # Interview Handbook
 The plan is simple. Concentrate on the assignments on the books. Start a book and do the assignments in the language(s) of choice. Always be on the lookout for general prep content that could help you.
 
-## General Prep
+### General Prep
 - [x] [How to Get a Job at Google - Amazon - Facebook - or Microsoft in 2019](https://youtu.be/6nODOtyHSBc)
 
-## Language of Choice
+### Language of Choice
 * [JavaScript](https://github.com/caestrada/practicing-javascript/blob/master/README.md)
 * [C++](https://github.com/caestrada/practicing-cpp/blob/master/README.md)
 
-## Books
+### Books
 Concentrate on books with coding problems and do them in both languages of choice (in my case C++ and JavaScript)
 - [ ] Cracking the Coding Interview (Problems in Progress)
 - [ ] The Google Resume
