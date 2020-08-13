@@ -4,7 +4,7 @@
 - [x] [How to Get a Job at Google - Amazon - Facebook - or Microsoft in 2019](https://youtu.be/6nODOtyHSBc)
 
 ## Language of Choice
-* JavaScript
+* [JavaScript](https://github.com/caestrada/practicing-javascript/blob/master/README.md)
 * [C++](https://github.com/caestrada/practicing-cpp/blob/master/README.md)
 
 ## Books
