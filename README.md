@@ -1,4 +1,5 @@
 # Interview Handbook
+The plan is simple. Concentrate on the assignments on the books. Start a book and do the assignments in the language(s) of choice. Always be on the lookout for general prep content that could help you.
 
 ## General Prep
 - [x] [How to Get a Job at Google - Amazon - Facebook - or Microsoft in 2019](https://youtu.be/6nODOtyHSBc)
