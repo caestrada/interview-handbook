@@ -15,6 +15,8 @@ Concentrate on books with coding problems and do them in both languages of choic
 - [ ] Cracking the Tech Career
 - [ ] The Algorithm Design Manual
 
+-------- 
+
 ## Links
 - [ ] [Interview at Google](https://careers.google.com/how-we-hire/)
 - [ ] [Interview at Facebook](https://www.facebook.com/careers/life/preparing-for-your-software-engineering-interview-at-facebook/)
