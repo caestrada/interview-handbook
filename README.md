@@ -4,6 +4,7 @@ The plan is simple. Concentrate on the assignments on the books. Start a book an
 ### General Prep
 - [x] [How to Get a Job at Google - Amazon - Facebook - or Microsoft in 2019](https://youtu.be/6nODOtyHSBc)
 - [ ] [Preparing for a Front-End Web Development Interview in 2017](http://davidshariff.com/blog/preparing-for-a-front-end-web-development-interview-in-2017/)
+  * Mark as done once you add the stated points in the article to flashcards.
 - [ ] [Cracking the front-end interview](https://medium.freecodecamp.com/cracking-the-front-end-interview-9a34cd46237)
 - [ ] [Front End Interview Handbook](https://github.com/yangshun/front-end-interview-handbook)
 - [ ] [Decoding the Front-end Interview Process](https://dev.to/emmawedekind/decoding-the-front-end-interview-process-14dl)
