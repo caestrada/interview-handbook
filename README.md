@@ -15,10 +15,6 @@ Concentrate on books with coding problems and do them in both languages of choic
 - [ ] Cracking the Tech Career
 - [ ] The Algorithm Design Manual
 
-**Other**
-- [ ] Handbook 1 - [My Fork](https://github.com/caestrada/coding-interview-university)
-- [ ] Handbook 2
-
 ## Links
 - [ ] [Interview at Google](https://careers.google.com/how-we-hire/)
 - [ ] [Interview at Facebook](https://www.facebook.com/careers/life/preparing-for-your-software-engineering-interview-at-facebook/)
@@ -52,5 +48,5 @@ Bellow you will find a snipped of their interview section of the book.
 
 ### Following on the success of others
 
-- [ ] [Handbook 1](https://github.com/jwasham/coding-interview-university)
+- [ ] [Handbook 1](https://github.com/jwasham/coding-interview-university) - [My Fork](https://github.com/caestrada/coding-interview-university)
 - [ ] [Handbook 2](https://github.com/yangshun/front-end-interview-handbook)
