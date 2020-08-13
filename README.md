@@ -5,7 +5,7 @@
 
 ## Language of Choice
 * JavaScript
-* C++
+* [C++](https://github.com/caestrada/practicing-cpp/blob/master/README.md)
 
 ## Books
 Concentrate on books with coding problems and do them in both languages of choice (in my case C++ and JavaScript)
