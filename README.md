@@ -27,7 +27,6 @@ Concentrate on books with coding problems and do them in both languages of choic
 - [ ] Cracking the Coding Interview (Problems in Progress)
   - [ ] Ch. 7 Technical Questions
   - [ ] Ch. 8 Big O
-* Interview Questions
   - [ ] 1. Arrys and Strings
 - [ ] The Google Resume
 
