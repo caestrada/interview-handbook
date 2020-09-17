@@ -25,6 +25,8 @@ The plan is simple. Concentrate on the assignments on the books. Start a book an
 ### Books
 Concentrate on books with coding problems and do them in both languages of choice (in my case C++ and JavaScript)
 - [ ] Cracking the Coding Interview (Problems in Progress)
+  * Interview Questions
+    - [ ] 1. Arrys and Strings
 - [ ] The Google Resume
 
 - [ ] Cracking the Tech Career
